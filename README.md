@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React, Redux, TypeScript**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> d.bayasgalan1230@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
