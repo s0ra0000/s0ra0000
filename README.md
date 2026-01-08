@@ -7,5 +7,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s0ra0000&show_icons=true&locale=en&layout=compact" alt="s0ra0000" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s0ra0000&show_icons=true&locale=en" alt="s0ra0000" /></p>
