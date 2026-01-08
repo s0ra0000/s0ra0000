@@ -5,5 +5,3 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> d.bayasgalan1230@gmail.com
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s0ra0000&show_icons=true&locale=en&layout=compact" alt="s0ra0000" /></p>
